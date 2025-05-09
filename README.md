@@ -29,3 +29,15 @@
 <h3 align="left"> 🛠 Стек технологий</h3>
 
 ###
+
+- **Языки программирования**  
+  - Python (Pandas, NumPy, SciPy, Matplotlib)  
+  - SQL  
+  - C++  
+- **Машинное обучение**  
+  - Scikit-learn  
+  - PyTorch, PyTorch Geometric
+- **Системные инструменты**  
+  - Linux, Git, SSH, Jupyter notebook
+
+ 
