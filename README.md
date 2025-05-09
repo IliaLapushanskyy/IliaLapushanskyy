@@ -55,6 +55,3 @@
 <h3 align="left"> 🚀 Мои проекты</h3>
 
 ###
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IliaLapushanskyy&show_icons=true&theme=gotham" alt="IliaLapushanskyy" />
